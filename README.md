@@ -111,7 +111,7 @@ Make sure you have the following components installed on your local machine.
 
 1. Clone the repo
 ```bash
-git clone https://github.com/10AcademyB6Week7/text-to-speech-data-collection.git
+git clone https://github.com/toussyn/speech_to_text_pipeline.git
    ```
  Run
    ```bash
