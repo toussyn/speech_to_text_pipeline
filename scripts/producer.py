@@ -19,7 +19,7 @@ if __name__ == '__main__':
     print("PRODUCED")
 
     # while True:
-    #     transaction: dict = create_random_transaction()
+    #     transaction: dic = create_random_transaction()
     #     producer.send(TRANSACTIONS_TOPIC, value=transaction)
     #     print(transaction)  # DEBUG
     #     sleep(SLEEP_TIME)
