@@ -1,5 +1,3 @@
-# text-to-speech-data-collection 
-
 <h1 align="center">Data Engineering: text-to-speech data collection with Kafka, Airflow, and Spark</h1>
 <div>
 <a href="https://github.com/10AcademyB6Week7/text-to-speech-data-collection/network/members"><img src="https://img.shields.io/github/forks/10AcademyB6Week7/text-to-speech-data-collection" alt="Forks Badge"/></a>
