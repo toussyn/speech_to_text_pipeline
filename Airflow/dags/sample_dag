@@ -1,4 +1,4 @@
-#This is a sample placeholder dag
+#This is a sample placeholder dag.
 
 from __future__ import annotations
 
