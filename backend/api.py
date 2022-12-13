@@ -9,10 +9,10 @@ from werkzeug.utils import secure_filename
 import os
 from flask_cors import CORS
 from datetime import datetime
-# import logging
+import logging
 import sqlite3
 
-# logging.basicConfig(filename='../log/log.log', filemode='a',encoding='utf-8', level=logging.DEBUG)
+#logging.basicConfig(filename='../log/log.log', filemode='a',encoding='utf-8', level=logging.DEBUG)
 
 app = Flask(__name__)
 app.config["UPLOAD_FOLDER"] = "/mnt/10ac-batch-6/notebooks/natnael_melese/data/"
