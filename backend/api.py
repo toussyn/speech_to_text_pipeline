@@ -9,7 +9,7 @@ from werkzeug.utils import secure_filename
 import os
 from flask_cors import CORS
 from datetime import datetime
-# import logging
+import logging
 import sqlite3
 
 # logging.basicConfig(filename='../log/log.log', filemode='a',encoding='utf-8', level=logging.DEBUG)
