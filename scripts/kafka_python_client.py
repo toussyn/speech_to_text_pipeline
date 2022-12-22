@@ -9,6 +9,7 @@ sys.path.insert(0, '../logs/')
 sys.path.append(os.path.abspath(os.path.join('..')))
 from logger import App_Logger
 
+#logger initiated
 app_logger = App_Logger("../logs/kafka_python_client.log").get_app_logger()
 
 class KafkaClient():
