@@ -3,7 +3,7 @@ from flask import *
 from kafka import KafkaAdminClient 
 from kafka.admin import NewTopic
 
-# App created
+# Flask app created
 
 app = Flask(__name__)
 class Admin(MethodView):
