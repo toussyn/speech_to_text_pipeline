@@ -116,15 +116,6 @@ git clone https://github.com/toussyn/speech_to_text_pipeline.git
     sudo python3 setup.py install
    ```
 
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
 <!-- CONTACT -->
 ## Participants 
 
