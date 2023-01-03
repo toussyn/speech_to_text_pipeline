@@ -3,7 +3,7 @@ from kafka import KafkaConsumer, KafkaProducer, TopicPartition
 from testcontainers.kafka import KafkaContainer
 
 
-
+# Kafka producer
 def produce_and_consume_kafka_message(container):
     topic = 'test-topic'
     bootstrap_server = container.get_bootstrap_server()
