@@ -3,6 +3,7 @@ from flask import *
 from kafka import KafkaAdminClient 
 from kafka.admin import NewTopic
 
+# Create app
 app = Flask(__name__)
 class Admin(MethodView):
     init_every_request = False
