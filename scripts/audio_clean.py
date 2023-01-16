@@ -11,6 +11,8 @@ import IPython.display as ipd
 
 from itertools import cycle
 
+# Set theme
+
 sns.set_theme(style="white", palette=None)
 color_pal = plt.rcParams["axes.prop_cycle"].by_key()["color"]
 color_cycle = cycle(plt.rcParams["axes.prop_cycle"].by_key()["color"])
