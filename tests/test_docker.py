@@ -4,7 +4,7 @@ import docker
 from testcontainers.core.docker_client import DockerClient
 from testcontainers.core.container import DockerContainer
 
-# Creat a unittest object for Kafka
+# Create unittest object for Kafka
 class KafkaTest(unittest.TestCase):
     def setUp(self) -> None:
         pass
