@@ -4,9 +4,9 @@ import matplotlib.pyplot as plt
 import numpy as np
 # Audio Signal Parameters
 # ~ number of channels: Mono, Stereo
-# ~ sample width
+# ~ Sample width
 # ~ framerate/ sample_rate: 44,100Hz
-# ~ number of frames
+# ~ Number of frames
 # ~ values of a frame
 # ~ Compression type: wav is the best quality but has large size
 
